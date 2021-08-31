@@ -1,0 +1,14 @@
+DAY 1 ASSIGNMENET FOR JAVA ZERO TO HERO:
+
+The difference betweeen compiler and interpreter:
+
+        compiler                  |                    interpreter
+                                  |  
+1)a compiler takes an entire      | 1)a interpreter takes a single line
+program in one go.                |  program in one go.
+2)It is faster.                   | 2)it is slower.
+3)consumes less time.             | 3)consumes more time.
+4)they take more memory.          | 4)they take less memory.
+5)programming languages such as   | 5)programming languages such as 
+  c, c++, c#, java, etc use       |  pyhton, ruby, BASIC, etc use 
+  compiler.                       |  interpreter.
