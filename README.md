@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AYAANKHAN2003
 - 👀 I’m interested in ... programming subjects and games
-- 🌱 I’m currently learning ... new languages
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ... java and python
+- 💞️ I’m looking to collaborate on ... discord
+- 📫 How to reach me ... AyanKhan 2op#4530
 
 <!---
 AYAANKHAN2003/AYAANKHAN2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
