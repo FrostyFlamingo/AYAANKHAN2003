@@ -2,9 +2,8 @@
 - 👀 I’m interested in ... programming subjects and games
 - 🌱 I’m currently learning ... java and python
 - 💞️ I’m looking to collaborate on ... discord
-- 📫 How to reach me ... AyanKhan 2op#4530
+- 📫 How to reach me ... 
 
-<!---
-AYAANKHAN2003/AYAANKHAN2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there!👋 
+I'm ayan khan, a student currently pursuing diploma in computer engineering at Government Institute of Electronics at Hyderabad. I really enjoy learning languages and playing many different types of games. Ask me about Technical stuff and about programming language, and I'll be there to help. 😉 💬
+
