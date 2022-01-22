@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayan Khan</h1>
 <h3 align="center">A student at GIOE from India</h3>
 
-- 🔭 I’m currently working on **Team HYPERSCRIPT**
 
 - 🌱 I’m currently learning **python and java**
 
