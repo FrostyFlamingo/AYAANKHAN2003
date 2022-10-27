@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ayan Khan</h1>
-<h3 align="center">A student at GIOE from India</h3>
+<h3 align="center">A student at MJCET</h3>
 
 
-- 🌱 I’m currently learning **python and java**
+- 🌱 I’m currently learning **DATA STRUCTURES**
 
 - 💬 Ask me about **technical stuff, games and programming languages**
 
 - 📫 How to reach me **ayaankhan.hmk@gmail.com**
 
-- ⚡ Fun fact **I listen to songs 24/7**
+- ⚡ Fun fact **I listen to lofi 24/7**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
